@@ -1,0 +1,14 @@
+{
+  "name": "smartdrive-web",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Single-page SmartDrive web shell with login, home, and Google Maps monitoring views.",
+  "scripts": {
+    "start": "echo \"Open index.html directly in a browser or use a simple static file server (e.g. npx serve .)\""
+  },
+  "dependencies": {
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0"
+  }
+}
+
